@@ -1,3 +1,8 @@
+:root{
+    --color-primary-1: #fff9ea;
+    --color-primary-2: 
+}
+
 
 *{
     margin: 0;
@@ -10,7 +15,7 @@
 }
 
 body{
-    background-color: #fff9ea;
+    background-color: var(--color-primary-1);
 }
 
 section{
